@@ -1,6 +1,5 @@
 name: Test Orchestrator
 
-# Allows a "Run workflow" button in the Actions tab
 on:
   workflow_dispatch: {}
 
